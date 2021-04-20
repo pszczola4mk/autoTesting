@@ -26,7 +26,7 @@ function logowanieTestowanie(){
             testSzukania('','Nazwisko','Pszczoliński',1)
             testSzukania('','Imię','Pszczoliński',0)
             idzDoStrony('Dyplomy')
-            testSzukania('','Nr albumu','11665544',4)
+            testSzukania('','Nr albumu','11665544',5)
     
         })
     })
